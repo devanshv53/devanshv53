@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Devansh Verma</h1>
-<h3 align="center">A passionate frontend developeHi there 👋, my name is Devansh Verma Hello and welcome to my GitHub profile! Here you'll find a collection of my latest public projects, showcasing a range of skills and interests in development. I'm passionate about creating innovative solutions and contributing to the community. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or just connect. You can find me on various platforms listed below. Let's build something amazing together!r from India</h3>
+<h3 align="center">Hello and welcome to my GitHub profile! Here you'll find a collection of my latest public projects, showcasing a range of skills and interests in development. I'm passionate about creating innovative solutions and contributing to the community. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or just connect. You can find me on various platforms listed below. Let's build something amazing together!</h3>
 
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
